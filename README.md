@@ -11,7 +11,7 @@
     </div>
     <br>
     <div style="padding:1px; margin:0px 750px 0px 0px; border:1px solid black">
-      <table height="140" width="100">
+      <table height="150" width="100">
         <tr>
           <td><a href="https://youtu.be/CLUPkcLQm64">html教學</a></td>
         </tr>
@@ -30,12 +30,12 @@
       <img src="rickroll-roll.gif" width="560"></a>
       <br>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/zKh5ELjjuWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      <div style="margin-left:0px;">
+      <div style="margin-left:100px;">
         rickroll
       </div>
     </div>
-    <div style="padding: 1px; margin-left:300px; border:1px solid black;">
-     <table width="400">
+    <div style="padding:1px; margin-left:320px; border:1px solid black;">
+     <table width="330">
       <tr>
         <td>其餘推薦=====></td>
         <td><a href="https://youtu.be/dQw4w9WgXcQ">好玩的1</a></td>
