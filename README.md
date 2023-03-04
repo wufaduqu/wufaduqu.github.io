@@ -9,5 +9,6 @@
     <a href="https://youtu.be/dQw4w9WgXcQ">good</a>
     <a href="https://youtu.be/CLUPkcLQm64">try</a>
     <a href="123.html">page.2</a>
+    <a href="Y.123.html">page.2</a>
   </body>
 </html>
