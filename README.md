@@ -11,7 +11,7 @@
     </div>
     <br>
     <div style="padding:1px; margin:0px 0px 0px 0px; border:1px solid black">
-      <table height="850">
+      <table height="50">
         <tr>
           <td><a href="https://youtu.be/CLUPkcLQm64">html教學</a></td>
         </tr>
@@ -26,7 +26,7 @@
         </tr>
       </table>
     </div>
-    <div style="margin:0px 0px 0px 0px; border:1px solid white;">
+    <div style="margin:-100px 0px 0px 0px; border:1px solid white;">
       <img src="rickroll-roll.gif" width="560"></a>
       <br>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/zKh5ELjjuWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
