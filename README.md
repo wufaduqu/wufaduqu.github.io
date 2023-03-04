@@ -10,7 +10,7 @@
       <img src="https://media.tenor.com/Dsjbb2BCBGYAAAAC/distraction-dance-henry-stickmin.gif" height="150" style="margin-left:50px;"></a>
     </div>
     <br>
-    <div style="padding:1px; margin:0px 0px 0px 0px; border:1px solid black">
+    <div style="padding:1px; margin:0px 600px 0px 0px; border:1px solid black">
       <table height="150" width="100">
         <tr>
           <td><a href="https://youtu.be/CLUPkcLQm64">html教學</a></td>
@@ -34,8 +34,8 @@
         rickroll
       </div>
     </div>
-    <div style="padding: 1px; margin-left:0px; border:1px solid black;">
-     <table width="800">
+    <div style="padding: 1px; margin-left:50px; border:1px solid black;">
+     <table width="600">
       <tr>
         <td>其餘推薦=====></td>
         <td><a href="https://youtu.be/dQw4w9WgXcQ">好玩的1</a></td>
