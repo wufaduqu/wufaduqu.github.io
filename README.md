@@ -5,13 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   </head>
   <body>
-    <div style="margin:0px 0px 0px 500px;">
+    <div style="margin:0px 0px 0px 400px;">
       <h1>歡迎來到我的網頁！</h1>
       <img src="https://media.tenor.com/Dsjbb2BCBGYAAAAC/distraction-dance-henry-stickmin.gif" height="150" style="margin-left:50px;"></a>
     </div>
     <br>
     <div style="padding:1px; margin:0px 0px 0px 0px; border:1px solid black">
-      <table height="150">
+      <table height="150" width="100">
         <tr>
           <td><a href="https://youtu.be/CLUPkcLQm64">html教學</a></td>
         </tr>
@@ -26,7 +26,7 @@
         </tr>
       </table>
     </div>
-    <div style="margin:-100px 0px 0px 500px; border:1px solid white;">
+    <div style="margin:-100px 0px 0px 400px; border:1px solid white;">
       <img src="rickroll-roll.gif" width="560"></a>
       <br>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/zKh5ELjjuWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
