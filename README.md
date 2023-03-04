@@ -10,8 +10,8 @@
       <img src="https://media.tenor.com/Dsjbb2BCBGYAAAAC/distraction-dance-henry-stickmin.gif" height="150" style="margin-left:50px;"></a>
     </div>
     <br>
-    <div style="padding:1px; margin:0px 600px 0px 0px; border:1px solid black">
-      <table height="150" width="100">
+    <div style="padding:1px; margin:0px 750px 0px 0px; border:1px solid black">
+      <table height="140" width="100">
         <tr>
           <td><a href="https://youtu.be/CLUPkcLQm64">html教學</a></td>
         </tr>
@@ -26,7 +26,7 @@
         </tr>
       </table>
     </div>
-    <div style="margin:-100px 0px 0px 400px; border:1px solid white;">
+    <div style="margin:-100px 0px 0px 330px; border:1px solid white;">
       <img src="rickroll-roll.gif" width="560"></a>
       <br>
       <iframe width="560" height="315" src="https://www.youtube.com/embed/zKh5ELjjuWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -34,8 +34,8 @@
         rickroll
       </div>
     </div>
-    <div style="padding: 1px; margin-left:50px; border:1px solid black;">
-     <table width="600">
+    <div style="padding: 1px; margin-left:300px; border:1px solid black;">
+     <table width="400">
       <tr>
         <td>其餘推薦=====></td>
         <td><a href="https://youtu.be/dQw4w9WgXcQ">好玩的1</a></td>
